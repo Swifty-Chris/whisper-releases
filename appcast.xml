@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>WhisperApp Updates</title>
+        <link>https://github.com/Swifty-Chris/whisper</link>
+        <description>Neueste WhisperApp-Updates</description>
+        <language>de</language>
+        <item>
+            <title>Version 1.0.1</title>
+            <pubDate>Thu, 16 Apr 2026 10:25:15 +0200</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/Swifty-Chris/whisper/releases/download/v1.0.1/Whisper-1.0.1.zip"
+                length="2212955"
+                type="application/octet-stream"
+                sparkle:edSignature="d4WgIUpX2cycJBuKxi5/KrJwYQv9dc6ePOfyh2OwwWyKmcZdnL3dXMv9Fkpg4WnthNjvfVdN4o0VZ5fTpGYkDQ==" />
+        </item>
+    </channel>
+</rss>
