@@ -6,6 +6,18 @@
         <description>Neueste WhisperApp-Updates</description>
         <language>de</language>
         <item>
+            <title>Version 1.2.0</title>
+            <pubDate>Sat, 10 Oct 2026 11:49:28 +0200</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/Swifty-Chris/whisper-releases/releases/download/v1.2.0/Whisper-1.2.0.zip"
+                length="2300853"
+                type="application/octet-stream"
+                sparkle:edSignature="Lseizie2WS6P0d0lRdXA1ji+wRadpDiYN9Yi4SQXZyHojpvGaQxsP1493qDIxuIKhsY3IrbRbdaLAqRl8P7fAA==" />
+        </item>
+        <item>
             <title>Version 1.1.0</title>
             <pubDate>Sat, 15 Aug 2026 10:08:31 +0200</pubDate>
             <sparkle:version>32</sparkle:version>
